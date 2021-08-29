@@ -1,0 +1,10 @@
+.item{
+    display: flex;
+    font-family: initial;
+}
+.item img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+
+}

@@ -1,0 +1,21 @@
+.Profile{
+    
+}
+.top_img{
+    width: 100%;
+    height: 300px;
+}
+.UserInformation{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+}
+.UserInformation{
+    padding: 20px;
+    border: 2px solid rgb(22, 155, 10);
+    
+    background-color: rgb(108, 240, 104);
+    margin-bottom: 10px;
+    
+
+}

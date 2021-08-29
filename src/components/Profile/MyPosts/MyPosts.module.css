@@ -1,0 +1,11 @@
+.buttonPost{
+margin-bottom: 20px;
+}
+
+.newPostInput{
+    
+}
+.postsContainer{
+display: flex;
+flex-direction: column-reverse;
+}
